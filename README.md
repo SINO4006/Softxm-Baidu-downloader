@@ -3,8 +3,6 @@
 
 [![55EC1D20-5885-4951-876E-987F48F72B1F.jpeg](https://s8d8.turboimg.net/sp/5726e70ab1df8abe6e3dd5ce807eae45/55EC1D20-5885-4951-876E-987F48F72B1F.jpeg)](https://www.turboimagehost.com/p/73972549/55EC1D20-5885-4951-876E-987F48F72B1F.jpeg.html)
 
-## 300Mbps寬帶演示
-![image](https://user-images.githubusercontent.com/80150816/159404035-1b8c5f86-7aa2-4bdf-b8e4-59dca86f8096.gif)
 
 ## 主要功能
 
