@@ -11,6 +11,12 @@
 - 没有多余的功能
 - 无需客户端只需要IDM即可高速下载
 
+## 安装地址
+
+https://reurl.cc/e6r5jR
+
+需要脚本管理器来安装~
+
 ## 脚本主界面
 [![D7534A06-E061-48D8-8AD0-B4AB4D040515.jpeg](https://s8d1.turboimg.net/sp/40b2a0dc3e475a1ca0327524b8bec2dc/D7534A06-E061-48D8-8AD0-B4AB4D040515.jpeg)](https://www.turboimagehost.com/p/73972572/D7534A06-E061-48D8-8AD0-B4AB4D040515.jpeg.html)
 
